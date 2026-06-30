@@ -25,13 +25,6 @@ I’m interested in:
 - Unity, Unreal Engine  
 - Tkinter, Discord bots  
 
-## 🚀 Selected Projects
-
-### 🤖 AI Assistant (Python, LLMs, Whisper, RAG)
-> _Repo: https://github.com/Kronomono/Ai_assistant.git_
-
-### 🔌 Rexa Modbus TCP/IP Communication Software
-> _Repo: https://github.com/Kronomono/Modbus-Code_
 
 
 
